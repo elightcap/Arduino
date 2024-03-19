@@ -6,7 +6,7 @@
 
 
 const char* wifi_ssid = "Home";
-const char* wifi_passwd = "R00thecat18";
+const char* wifi_passwd = "";
 const int analogInPin = A0;  // ESP8266 Analog Pin ADC0 = A0
 int sensorValue = 0;  // value read from the pot
 
