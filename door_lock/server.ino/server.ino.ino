@@ -8,7 +8,7 @@ const int digitalPin = D1; // Define the digital pin you want to use
 const String server = "http://10.0.40.30/unlock";
 
 const char* wifi_ssid = "Home";
-const char* wifi_passwd = "R00thecat18";
+const char* wifi_passwd = "";
 
 void setup() {
   Serial.begin(9600);
