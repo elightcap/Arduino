@@ -4,7 +4,7 @@
 
 
 const char* wifi_ssid = "Home";
-const char* wifi_passwd = "R00thecat18";
+const char* wifi_passwd = "";
 
 const int potPin = A0;    // Analog pin connected to the potentiometer
 const int pwmPin = D8;   
